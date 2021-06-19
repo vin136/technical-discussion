@@ -5,7 +5,7 @@ install:
 format:
 	black *.py
 
-link:
+lint:
 	pylint --disable=R,C hello.py
 	
 test:

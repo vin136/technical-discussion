@@ -8,7 +8,8 @@ Temporary repo for cloud computing course
 
 ## Code
 
-You can share code through github gists. Here's a [sample](https://gist.github.com/vin136/1b8d4b92f377e6a4de1e93911b361b78#file-hello-py)
+1. You can share code through github gists. Here's a [sample](https://gist.github.com/vin136/1b8d4b92f377e6a4de1e93911b361b78#file-hello-py)
+2. You can make a colab notebook and save it directly in github.
 
 
 ## Images

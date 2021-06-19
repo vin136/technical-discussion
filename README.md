@@ -1,4 +1,5 @@
 # technical-discussion
+[![Python application test with Github Actions](https://github.com/vin136/technical-discussion/actions/workflows/main.yml/badge.svg)](https://github.com/vin136/technical-discussion/actions/workflows/main.yml)
 Temporary repo for cloud computing course
 
 ## Basic Markdown

@@ -13,3 +13,5 @@ You can share code through github gists. Here's a [sample](https://gist.github.c
 
 ## Images
 Markdown images can be easily embedded using Github Issues.
+![Screenshot 2021-05-21 at 11 22 18 AM](https://user-images.githubusercontent.com/21222766/122638631-d8b09600-d112-11eb-9598-774e61d1a200.png)
+
